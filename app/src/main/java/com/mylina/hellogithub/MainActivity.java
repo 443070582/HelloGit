@@ -2,12 +2,18 @@ package com.mylina.hellogithub;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
+
+      private View tv123;
 
       @Override
       protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_main);
+
+            tv123 = findViewById(R.id.textView);
+
       }
 }
