@@ -2,14 +2,16 @@ package com.mylina.hellogithub;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
-      int i = 1;
+      String ss="lina";
       @Override
       protected void onCreate(Bundle savedInstanceState)
       {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.activity_main);
+            Log.e("s","d");
 
 
       }
