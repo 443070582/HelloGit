@@ -14,8 +14,20 @@
           <option name="url" value="https://github.com/443070582/lina.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/443070582/linana.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:443070582/HelloGit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:443070582/visen.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\yan\VisenTest" />
+    <option name="cloneParentDir" value="D:\AndroidProject\MyTest" />
   </component>
 </application>
