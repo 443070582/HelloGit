@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">框架</string>
+    <string name="name00">商城</string>
+    <string name="name01">分类</string>
+    <string name="name02">物品</string>
+    <string name="name03">我的</string>
+</resources>
